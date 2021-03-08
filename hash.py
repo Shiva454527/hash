@@ -1,7 +1,7 @@
 
 import hashlib
 print("")
-print(" ---------------Hasing convert-------------v1.0")
+print(" ---------------Hash convert-------------v1.0")
 print("")
 print("")
 print("<============================================>")
