@@ -14,7 +14,8 @@ print("Available Options:\n1.MD5\n2.SHA512\n3.SHA256\n4.Select All\n5.Exit")
 while True:
 	choice = int(input('Select An Option: '))
 	if choice == 5:
-		banner("Exiting")
+		
+		
 		exit()
 	else:
 		string = input('Enter String To Hash: ')
@@ -44,7 +45,13 @@ while True:
 		sha256(string)
 	else:
 		print("Invalid Option!")
+		
+		
+
+		exit()
 			
+	
+	
 	print("")
 	print("                 Thank you for downloading.")
 		
