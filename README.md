@@ -4,5 +4,6 @@
 pkg install git
 git clone 
 https://github.com/Shiva454527/hash.git
+cd 
 chmod +x hash.py
 python hash.py
